@@ -1,0 +1,31 @@
+{
+  "name": "grommailpasha-module",
+  "version": "1.0.0",
+  "description": "grommailpasha-module is a Node.js module that provides a collection of utility functions for various tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grommailpasha/grommailpasha-module"
+  },
+  "dependencies": {
+	  "string-filatovmark": "1.0.0",
+"obs-lisacollins": "1.0.0",
+"spleef": "1.0.0",
+"edwardevans-io": "1.0.0",
+"morozz-string": "1.0.0",
+"mod-petrivany": "1.0.0",
+"denisgorlov": "1.0.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.11",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grommailpasha/grommailpasha-module/issues"
+  },
+  "homepage": "https://github.com/grommailpasha/grommailpasha-module#readme"
+}
